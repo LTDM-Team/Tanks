@@ -9,5 +9,7 @@ public class Bruh : MonoBehaviour
     {
         Debug.Log("Bruh1");
         Debug.Log("Bruh2");
+        Debug.Log("Bruh3");
+        Debug.Log("Bruh4");
     }
 }
