@@ -10,8 +10,8 @@ public class Bruh : MonoBehaviour
     {
         Debug.Log("Bruh");
 		if (Bruh3PoshelTaskatJashchiki == true) 
-			Debug.Log("Vito Scaletta любит таскать ящики, 
-			получать шиш и ломать грузовик.");
+			Debug.Log("Vito Scaletta любит таскать ящики, " +  
+			"получать шиш и ломать грузовик.");
     }
 	//
 	// Линк, любишь же ты заставлять таскать
