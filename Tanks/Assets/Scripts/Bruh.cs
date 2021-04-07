@@ -8,5 +8,6 @@ public class Bruh : MonoBehaviour
     private void Update()
     {
         Debug.Log("Bruh");
+        Debug.Log("Bruh");
     }
 }
