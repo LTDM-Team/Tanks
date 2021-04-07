@@ -7,11 +7,11 @@ public class Bruh : MonoBehaviour
     private void Update()
     {
         Debug.Log("Bruh");
-		if (Bruh3PoshelTaskatJashchiki == true) 
-			Debug.Log("Vito Scaletta любит таскать ящики, получать шиш и ломать грузовик.");
+		if (_bruh3PoshelTaskatJashchiki == true) 
+			Debug.Log("Hello World");
 
-		if(true == false)
-			Debug.Log("true==false");
+		
+	    Debug.Log("true==false");
     }
 
 	private void FixedUpdate()
