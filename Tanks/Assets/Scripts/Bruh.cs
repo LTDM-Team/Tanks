@@ -10,8 +10,8 @@ public class Bruh : MonoBehaviour
 		if (_bruh3PoshelTaskatJashchiki == true) 
 			Debug.Log("Hello World");
 
-		if(true == false)
-			Debug.Log("true==false");
+		
+	    Debug.Log("true==false");
     }
 
 	private void FixedUpdate()
