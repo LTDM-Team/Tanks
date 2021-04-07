@@ -5,8 +5,8 @@ public class Bruh : MonoBehaviour
     public int Bruh1 = 0;
     public long Bruh2 = 0;
 
-    void Update()
+    private void Update()
     {
-        print("Bruh");
+        Debug.Log("Bruh");
     }
 }
