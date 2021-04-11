@@ -4,6 +4,6 @@ public class Jopa : MonoBehaviour
 {
    private void Update()
    {
-      Debug.Log("Jopa1234");
+      Debug.Log("Jopa (:");
    }
 }
