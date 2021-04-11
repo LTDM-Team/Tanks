@@ -3,7 +3,6 @@ C#:
   - '**/*.sln'
   - '**/*.csproj'
 Unity:
-  - '!**/*.cs.meta'
   - '**/*.meta'
   - '**/*.asset'
   - '**/*.unity'
