@@ -5,6 +5,6 @@ public class Jopa : MonoBehaviour
     private void Update()
     {
         Debug.Log("Hello, world!");
-        Debug.Log("Hello, world2!");
+        Debug.Log("Nice CodeImprover");
     }
 }
