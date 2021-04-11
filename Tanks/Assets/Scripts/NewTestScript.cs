@@ -7,17 +7,5 @@ public class NewTestScript : MonoBehaviour
         if (true)
             Debug.Log("DirtyCall");
         else Debug.Log("DirtyCall");
-
-        if (true)
-            Debug.Log("DirtyCall");
-        else Debug.Log("DirtyCall");
-
-        if (true)
-            Debug.Log("DirtyCall");
-        else Debug.Log("DirtyCall");
-
-        if (true)
-            Debug.Log("DirtyCall");
-        else Debug.Log("DirtyCall");
     }
 }
