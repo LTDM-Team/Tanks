@@ -3,6 +3,6 @@ C#:
   - '**/*.sln'
   - '**/*.csproj'
 Unity:
-  - '**/*.meta'
+  - any: ['**/*.meta', '!**/*.cs.meta']
   - '**/*.asset'
   - '**/*.unity'
