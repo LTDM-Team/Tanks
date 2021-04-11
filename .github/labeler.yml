@@ -1,9 +1,9 @@
 C#:
-  - any: ['**/*.cs']
-  - any: ['**/*.sln']
-  - any: ['**/*.csproj']
+  - '**/*.cs'
+  - '**/*.sln'
+  - '**/*.csproj'
 Unity:
-  - any: ['!**/*.cs.meta']
-  - any: ['**/*.meta']
-  - any: ['**/*.asset']
-  - any: ['**/*.unity']
+  - '!**/*.cs.meta'
+  - '**/*.meta'
+  - '**/*.asset'
+  - '**/*.unity'
