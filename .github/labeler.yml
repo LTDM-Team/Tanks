@@ -1,1 +1,4 @@
-C#: *.cs
+C#:
+  - any: ['*.cs', '*.csproj', '*.sln']
+Unity:
+  - any: ['!*.cs.meta', '*.meta', '*.asset', '*.unity']
