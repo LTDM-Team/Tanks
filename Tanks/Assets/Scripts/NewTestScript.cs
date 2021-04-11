@@ -7,5 +7,7 @@ public class NewTestScript : MonoBehaviour
         if (true)
             Debug.Log("DirtyCall");
         else Debug.Log("DirtyCall");
+
+        Debug.Log("Допустим");
     }
 }
