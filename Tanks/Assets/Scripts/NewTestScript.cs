@@ -11,9 +11,6 @@ public class NewTestScript : MonoBehaviour {
 
          Debug.Log("papa");
 
-
-
-
          float ABOBA = 0f;
           _pa_pa_carla = _pa_pa_carla - _pa_pa_carla + _pa_pa_carla;
      }
