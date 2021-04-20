@@ -50,4 +50,116 @@ public class NewTestScript : MonoBehaviour
         }
         else Debug.Log("DirtyCall");
     }
+    private void OtherMethod3()
+    {
+        if (true)
+        {
+            if (true)
+            {
+                if (true)
+                    Debug.Log("DirtyCall");
+                else Debug.Log("DirtyCall");
+            }
+            else Debug.Log("DirtyCall");
+        }
+        else Debug.Log("DirtyCall");
+    }
+    private void OtherMethod4()
+    {
+        if (true)
+        {
+            if (true)
+            {
+                if (true)
+                    Debug.Log("DirtyCall");
+                else Debug.Log("DirtyCall");
+            }
+            else Debug.Log("DirtyCall");
+        }
+        else Debug.Log("DirtyCall");
+    }
+    private void OtherMethod5()
+    {
+        if (true)
+        {
+            if (true)
+            {
+                if (true)
+                    Debug.Log("DirtyCall");
+                else Debug.Log("DirtyCall");
+            }
+            else Debug.Log("DirtyCall");
+        }
+        else Debug.Log("DirtyCall");
+    }
+    private void OtherMethod6()
+    {
+        if (true)
+        {
+            if (true)
+            {
+                if (true)
+                    Debug.Log("DirtyCall");
+                else Debug.Log("DirtyCall");
+            }
+            else Debug.Log("DirtyCall");
+        }
+        else Debug.Log("DirtyCall");
+    }
+    private void OtherMethod7()
+    {
+        if (true)
+        {
+            if (true)
+            {
+                if (true)
+                    Debug.Log("DirtyCall");
+                else Debug.Log("DirtyCall");
+            }
+            else Debug.Log("DirtyCall");
+        }
+        else Debug.Log("DirtyCall");
+    }
+    private void OtherMethod8()
+    {
+        if (true)
+        {
+            if (true)
+            {
+                if (true)
+                    Debug.Log("DirtyCall");
+                else Debug.Log("DirtyCall");
+            }
+            else Debug.Log("DirtyCall");
+        }
+        else Debug.Log("DirtyCall");
+    }
+    private void OtherMethod9()
+    {
+        if (true)
+        {
+            if (true)
+            {
+                if (true)
+                    Debug.Log("DirtyCall");
+                else Debug.Log("DirtyCall");
+            }
+            else Debug.Log("DirtyCall");
+        }
+        else Debug.Log("DirtyCall");
+    }
+    private void OtherMethod10()
+    {
+        if (true)
+        {
+            if (true)
+            {
+                if (true)
+                    Debug.Log("DirtyCall");
+                else Debug.Log("DirtyCall");
+            }
+            else Debug.Log("DirtyCall");
+        }
+        else Debug.Log("DirtyCall");
+    }
 }
