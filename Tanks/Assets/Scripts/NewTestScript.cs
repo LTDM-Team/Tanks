@@ -25,31 +25,29 @@ public class NewTestScript : MonoBehaviour
     private void OtherMethod()
     {
         if (true)
-            Debug.Log("DirtyCall");
+        {
+            if (true)
+            {
+                if (true)
+                    Debug.Log("DirtyCall");
+                else Debug.Log("DirtyCall");
+            }
+            else Debug.Log("DirtyCall");
+        }
         else Debug.Log("DirtyCall");
+    }
+    private void OtherMethod2()
+    {
         if (true)
-            Debug.Log("DirtyCall");
-        else Debug.Log("DirtyCall");
-        if (true)
-            Debug.Log("DirtyCall");
-        else Debug.Log("DirtyCall");
-        if (true)
-            Debug.Log("DirtyCall");
-        else Debug.Log("DirtyCall");
-        if (true)
-            Debug.Log("DirtyCall");
-        else Debug.Log("DirtyCall");
-        if (true)
-            Debug.Log("DirtyCall");
-        else Debug.Log("DirtyCall");
-        if (true)
-            Debug.Log("DirtyCall");
-        else Debug.Log("DirtyCall");
-        if (true)
-            Debug.Log("DirtyCall");
-        else Debug.Log("DirtyCall");
-        if (true)
-            Debug.Log("DirtyCall");
+        {
+            if (true)
+            {
+                if (true)
+                    Debug.Log("DirtyCall");
+                else Debug.Log("DirtyCall");
+            }
+            else Debug.Log("DirtyCall");
+        }
         else Debug.Log("DirtyCall");
     }
 }
