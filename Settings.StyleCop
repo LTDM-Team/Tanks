@@ -265,10 +265,14 @@
             <BooleanProperty Name="Enabled">False</BooleanProperty>
           </RuleSettings>
         </Rule>
+        <Rule Name="FieldNamesMustNotUseHungarianNotation">
+          <RuleSettings>
+            <BooleanProperty Name="Enabled">False</BooleanProperty>
+          </RuleSettings>
+        </Rule>
       </Rules>
       <AnalyzerSettings>
         <CollectionProperty Name="Hungarian">
-          <Value> </Value>
           <Value>_</Value>
         </CollectionProperty>
       </AnalyzerSettings>
