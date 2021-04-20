@@ -1,0 +1,20 @@
+# duplication threshold [10 - 100]
+MinLineCount: 3
+
+# files/patterns to exclude
+IgnorePatterns:
+  - *.meta
+  - *.unity
+  - *.unity
+  - *.asset
+  - *.StyleCop
+  - *.cache
+  - *.Cache
+  - *.sln
+  - *.csproj
+  - .editorconfig
+  - .vsconfig
+  - **/Packages/
+  - **/ProjectSettings/
+  - **/UserSettings/
+  - **/Assets/Plugins/
