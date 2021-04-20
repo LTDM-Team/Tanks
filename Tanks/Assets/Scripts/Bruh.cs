@@ -15,11 +15,10 @@ public class Bruh : MonoBehaviour
 
 	private void FixedUpdate()
 	{
-		//something
+		// something
 	}
-	//
+
 	// Линк, любишь же ты заставлять таскать
 	// ящики и возиться целый день :)
 	// Приколы из видосов Deadyson, кому интересно
-	//	
 }

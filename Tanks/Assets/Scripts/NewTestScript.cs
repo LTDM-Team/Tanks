@@ -1,7 +1,8 @@
 using UnityEngine;
 
-public class NewTestScript : MonoBehaviour {
-    public int _pa_pa_carla = 1;
+public class NewTestScript : MonoBehaviour
+{
+    private int _paPaCarla = 1;
 
     public void Update()
     {
@@ -11,7 +12,10 @@ public class NewTestScript : MonoBehaviour {
 
          Debug.Log("papa");
 
-         float ABOBA = 0f;
-          _pa_pa_carla = _pa_pa_carla - _pa_pa_carla + _pa_pa_carla;
+         float aboba = 0f;
+          _paPaCarla = _paPaCarla - _paPaCarla + _paPaCarla;
+
+                                      Debug.Log("Abobnik");
+                                                                   var pipka = 0 < 3;
      }
 }
