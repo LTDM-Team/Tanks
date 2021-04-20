@@ -13,5 +13,8 @@ public class NewTestScript : MonoBehaviour {
 
          float ABOBA = 0f;
           _pa_pa_carla = _pa_pa_carla - _pa_pa_carla + _pa_pa_carla;
+
+                                      Debug.Log("Abobnik");
+                                                                   var pipka = 0<3;
      }
 }
