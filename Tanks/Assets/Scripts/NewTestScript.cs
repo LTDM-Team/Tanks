@@ -22,14 +22,11 @@ public class NewTestScript : MonoBehaviour
         Debug.Log("Abobnik");
         Debug.Log("Abobnik");
     }
-
     private void OtherMethod()
     {
-        _paPaCarla = _paPaCarla - _paPaCarla + _paPaCarla;
-        Debug.Log("Abobnik");
-
-        _paPaCarla = _paPaCarla - _paPaCarla + _paPaCarla;
-        Debug.Log("Abobnik");
+        if (true)
+            Debug.Log("DirtyCall");
+        else Debug.Log("DirtyCall");
 
         if (true)
             Debug.Log("DirtyCall");
