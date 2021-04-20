@@ -1,5 +1,5 @@
 # duplication threshold [10 - 100]
-MinLineCount: 3
+MinLineCount: 10
 
 # files/patterns to exclude
 IgnorePatterns:
