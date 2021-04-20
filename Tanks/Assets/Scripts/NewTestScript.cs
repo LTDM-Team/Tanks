@@ -22,6 +22,7 @@ public class NewTestScript : MonoBehaviour
         Debug.Log("Abobnik");
         Debug.Log("Abobnik");
     }
+
     private void OtherMethod()
     {
         _paPaCarla = _paPaCarla - _paPaCarla + _paPaCarla;
