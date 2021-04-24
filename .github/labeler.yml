@@ -6,3 +6,5 @@ Unity:
   - any: ['**/*.meta', '!**/*.cs.meta']
   - '**/*.asset'
   - '**/*.unity'
+  - '**/Packages/manifest.json'
+  - '**/ProjectSettings/*'
