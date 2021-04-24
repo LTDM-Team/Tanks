@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Bruh : MonoBehaviour
 {
-	private bool _bruh3PoshelTaskatJashchiki = true;
+	private readonly bool _bruh3PoshelTaskatJashchiki = true;
 
     private void Update()
     {
@@ -12,11 +12,6 @@ public class Bruh : MonoBehaviour
 
 	    Debug.Log("true==false");
     }
-
-	private void FixedUpdate()
-	{
-		// something
-	}
 
 	// Линк, любишь же ты заставлять таскать
 	// ящики и возиться целый день :)
